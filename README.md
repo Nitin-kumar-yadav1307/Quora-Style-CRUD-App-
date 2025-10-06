@@ -81,9 +81,10 @@ Server runs at 👉 **http://localhost:8080**
 ---
 
 ## 📸 Preview
-<p align="center">
-  <img src="assets/preview.png" alt="App Preview" width="600">
-</p>
+## 📸 Preview
+
+![App Preview](assets/preview.png)
+
 
 
 ---
