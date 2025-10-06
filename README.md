@@ -78,14 +78,6 @@ Server runs at 👉 **http://localhost:8080**
 - Express Middleware
 - Method Override for HTML forms
 
----
-
-## 📸 Preview
-## 📸 Preview
-
-![App Preview](assets/preview.png)
-
-
 
 ---
 
